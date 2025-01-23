@@ -1,1 +1,2 @@
 # nemtom
+Félkész szutyok
